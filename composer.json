@@ -1,5 +1,5 @@
 {
-    "name": "batterybot/monitor",
+    "name": "chernegasergiy/battery-monitor",
     "description": "Battery monitoring bot with Telegram notifications.",
     "type": "project",
     "require": {
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BatteryBot\\": "src/"
+            "ChernegaSergiy\\BatteryBot\\": "src/"
         }
     },
     "scripts": {
