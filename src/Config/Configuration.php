@@ -2,11 +2,6 @@
 
 declare(strict_types=1);
 
-/**
- * Battery Monitoring Bot - Entry Point
- * PSR-12 compliant code with PSR-3 logging
- */
-
 namespace BatteryBot\Config;
 
 class Configuration
