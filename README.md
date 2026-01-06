@@ -126,7 +126,7 @@ Contributions are welcome and appreciated! Here's how you can contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Please make sure to update tests as appropriate and adhere to the existing coding style (PSR-12).
+Please make sure to update tests as appropriate and adhere to the existing coding style.
 
 ## License
 
