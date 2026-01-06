@@ -45,7 +45,7 @@ To deploy the bot on your system, simply proceed as follows:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/php-battery-monitor.git](https://github.com/your-username/php-battery-monitor.git)
+   git clone https://github.com/ChernegaSergiy/php-battery-monitor.git
    cd php-battery-monitor
    ```
 
