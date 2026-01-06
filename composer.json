@@ -2,6 +2,7 @@
     "name": "chernegasergiy/battery-monitor",
     "description": "Battery monitoring bot with Telegram notifications.",
     "type": "project",
+    "license": "LicenseRef-CSSM-Unlimited-2.0",
     "require": {
         "php": ">=8.1"
     },
