@@ -1,0 +1,16 @@
+{
+    "name": "batterybot/monitor",
+    "description": "Battery monitoring bot with Telegram notifications.",
+    "type": "project",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "BatteryBot\\": "src/"
+        }
+    },
+    "scripts": {
+        "start": "php index.php"
+    }
+}
