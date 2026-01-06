@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace BatteryBot\Service;
 
-use BatteryBot\DTO\BatteryStatus;
+use BatteryBot\Dto\BatteryStatus;
 
 class MessageFormatter
 {
