@@ -14,7 +14,7 @@ This repository contains a robust PHP application for monitoring laptop battery 
 
 ## Requirements
 
-- PHP **8.1** or higher
+- PHP 8.1 or higher
 - Linux environment (access to `/sys/class/power_supply/`)
 - [Composer](https://getcomposer.org/)
 - Telegram Bot Token and Chat ID
