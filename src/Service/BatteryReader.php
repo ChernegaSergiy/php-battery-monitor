@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace BatteryBot\Service;
+namespace ChernegaSergiy\BatteryBot\Service;
 
-use BatteryBot\Dto\BatteryStatus;
-use BatteryBot\Exception\BatteryReadException;
+use ChernegaSergiy\BatteryBot\Dto\BatteryStatus;
+use ChernegaSergiy\BatteryBot\Exception\BatteryReadException;
 
 class BatteryReader
 {

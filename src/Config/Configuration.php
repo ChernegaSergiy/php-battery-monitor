@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BatteryBot\Config;
+namespace ChernegaSergiy\BatteryBot\Config;
 
 class Configuration
 {

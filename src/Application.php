@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace BatteryBot;
+namespace ChernegaSergiy\BatteryBot;
 
-use BatteryBot\Config\Configuration;
-use BatteryBot\Logger\LoggerInterface;
-use BatteryBot\Service\BatteryReader;
-use BatteryBot\Service\MessageFormatter;
-use BatteryBot\Service\TelegramClient;
+use ChernegaSergiy\BatteryBot\Config\Configuration;
+use ChernegaSergiy\BatteryBot\Logger\LoggerInterface;
+use ChernegaSergiy\BatteryBot\Service\BatteryReader;
+use ChernegaSergiy\BatteryBot\Service\MessageFormatter;
+use ChernegaSergiy\BatteryBot\Service\TelegramClient;
 
 class Application
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BatteryBot\Dto;
+namespace ChernegaSergiy\BatteryBot\Dto;
 
 class BatteryStatus
 {

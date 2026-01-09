@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace BatteryBot\Logger;
+namespace ChernegaSergiy\BatteryBot\Logger;
 
 interface LoggerInterface
 {
