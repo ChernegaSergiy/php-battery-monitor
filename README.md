@@ -23,20 +23,20 @@ This repository contains a robust PHP application for monitoring laptop battery 
 
 ```
 src/
-+-- Application.php              # Main application logic and event loop
++-- Application.php               # Main application logic and event loop
 +-- Config/
-|   \-- Configuration.php        # Settings management and retrieval
+|   \-- Configuration.php         # Settings management and retrieval
 +-- Dto/
-|   \-- BatteryStatus.php        # Data Transfer Object for battery state
+|   \-- BatteryStatus.php         # Data Transfer Object for battery state
 +-- Exception/
-|   \-- BatteryReadException.php # Custom exception for read failures
+|   \-- BatteryReadException.php  # Custom exception for read failures
 +-- Logger/
-|   +-- FileLogger.php           # File-based logging implementation
-|   \-- LoggerInterface.php      # PSR-3 compatible interface
+|   +-- FileLogger.php            # File-based logging implementation
+|   \-- LoggerInterface.php       # PSR-3 compatible interface
 \-- Service/
-    +-- BatteryReader.php        # Parses /sys/class/power_supply data
-    +-- MessageFormatter.php     # Formats Telegram messages (HTML)
-    \-- TelegramClient.php       # Async cURL client with retry logic
+    +-- BatteryReader.php         # Parses /sys/class/power_supply data
+    +-- MessageFormatter.php      # Formats Telegram messages (HTML)
+    \-- TelegramClient.php        # Async cURL client with retry logic
 ```
 
 ## Installation
