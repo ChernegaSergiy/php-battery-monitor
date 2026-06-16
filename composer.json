@@ -3,6 +3,12 @@
     "description": "Battery monitoring bot with Telegram notifications.",
     "type": "project",
     "license": "LicenseRef-CSSM-Unlimited-2.0",
+    "authors": [
+        {
+            "name": "Serhii Cherneha",
+            "email": "chernegasergiy3@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=8.1"
     },
